@@ -1,0 +1,66 @@
+===============================================================================
+Proctora Release Notes
+===============================================================================
+
+Version: 1.0.0  (Initial Public Release)
+Date:    2024-06-08
+
+------------------------------------------------------------------------------
+🎉  Highlights
+------------------------------------------------------------------------------
+• Stealth Overlay Engine
+  - Frameless always-on-top window invisible to most screen-share & proctoring tools.
+
+• Drag-and-Drop Text Capture
+  - Drop any selected text onto the red zone to inject it as context for the AI.
+
+• Screenshot & OCR
+  - Capture any area of the screen, convert it to text and feed it straight into the chat.
+
+• Clipboard Paste
+  - Instantly send whatever is in your clipboard as a prompt with a single hot-key.
+
+• Token System
+  - 5 000 free tokens for all new users.
+  - In-app purchase flow for additional bundles.
+
+• Global Keyboard Shortcuts (fully customisable)
+  - Ctrl-Shift-V   Toggle overlay visibility
+  - Ctrl-Shift-H   Open input box
+  - Ctrl-Shift-R   Send prompt
+  - Ctrl-Shift-S   Screenshot & OCR
+  - Ctrl-Shift-C   Paste clipboard text
+  - Ctrl-Shift-D   Reset conversation context
+  - Ctrl-Shift-X   Clear canvas
+  - Ctrl-↑ / ↓     Scroll chat
+  - Ctrl-Shift-↑ / ↓   Adjust overlay opacity
+  - Ctrl-Shift-Q   Quit application
+
+• Preferences & Prompt Tuning
+  - Adjust overlay opacity/position
+  - Configure system prompt for different answer styles
+
+• Security & Privacy
+  - Local encryption of token store & prompt history
+  - Zero prompt logging on servers (GDPR compliant)
+
+------------------------------------------------------------------------------
+🚀  Getting Started
+------------------------------------------------------------------------------
+1. Download & install the desktop client from the releases page.
+2. Launch the app and log in / create an account.
+3. Press Ctrl-Shift-V to display the overlay and start asking questions!
+
+Full usage instructions can be found in README.md.
+
+------------------------------------------------------------------------------
+🗺️  Upcoming Roadmap
+------------------------------------------------------------------------------
+• Built-in OCR for images
+• Whisper-powered voice input
+• Automatic citation & source links
+• Mobile companion app
+• Audio capture & transcription
+
+------------------------------------------------------------------------------
+© 2024 Proctora Team – MIT License 
